@@ -60,7 +60,7 @@ namespace FireGameWithScoreCard
             clk = 2;
             if (clk == 2)
             {
-                // loading the bullet in the gun 
+                // loading the bullet in the gun.
                 picture.Image = FireGameWithScoreCard.Properties.Resources.Loading_Bullet;
                 ButtonLoad.Enabled = false;
                 ButtonSpin.Enabled = true;
